@@ -2,6 +2,7 @@
 layout: post
 title: "Anuj Portfolio"
 excerpt: "About the person"
+date: 2018-12-01
 tags: [gaming, opengl, directx, tennis, game-engine]
 feature: /newAssets/Anuj/featureImage.jpg
 comments: false
