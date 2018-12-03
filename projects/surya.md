@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "A Brief History of Myself"
 excerpt: "About the person"
 tags: []

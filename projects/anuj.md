@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Anuj Portfolio"
 excerpt: "About the person"
 tags: [gaming, opengl, directx, tennis, game-engine]
