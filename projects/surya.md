@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A Brief History of Myself"
-date: 2018-12-01
 excerpt: "About the person"
 tags: []
 feature: /newAssets/Surya/featureImage.jpg
