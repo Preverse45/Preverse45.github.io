@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Portfolio"
-date: 2018-12-01
-excerpt: "About the person "
+title: "Portfolio" #Anything else xD
+date: 2018-12-01 #Any Date
+excerpt: "About the person"
 tags: [sample post, readability, test, image, feature]
 feature: /newAssets/Anuj/featureImage.jpg
 comments: false
@@ -28,7 +28,7 @@ Some Images
 </figure>
 
 Download Link :
-<a href="https://drive.google.com/file/d/19NbfkWTWezSjaYgWSFCc3ElcZxqzhcTg/view" target="_blank" title="Download Project" class="social-btn">
+<a href="PUT DOWNLOAD LINK HERE" target="_blank" title="Download Project" class="social-btn">
         <span class="term"><i class="fa fa-google-plus-square"></i> Download</span>
 </a>
 
@@ -46,7 +46,7 @@ Some Discription
 Phone Number : xxxxxxxxxxxxx(optional) \\
 Mail : xxxxxxx@iitbhilai.ac.in or xxxxxxxxxxxxx@gmail.com
 
-<a class="social-btn" href="https://twitter.com/PrevWhar/" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-twitter-square"></i></a>
-<a class="social-btn" href="https://github.com/preversewharf45" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-github"></i></a>
-<a class="social-btn" href="http://steamcommunity.com/id/45wharfy" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-steam-square"></i></a>
-<a class="social-btn" href="mailto:preverse45you@gmail.com" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i></a>
+<a class="social-btn" href="https://twitter.com/PUT USERNAME HERE/" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-twitter-square"></i></a>
+<a class="social-btn" href="https://github.com/PUT USERNAME HERE" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-github"></i></a>
+<a class="social-btn" href="http://steamcommunity.com/id/PUT USERNAME HERE" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-steam-square"></i></a>
+<a class="social-btn" href="mailto:PUT EMAIL HERE@gmail.com" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i></a>

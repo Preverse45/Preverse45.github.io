@@ -2,7 +2,6 @@
 layout: post
 title: "Anuj Portfolio"
 excerpt: "About the person"
-date: 2018-12-01
 tags: [gaming, opengl, directx, tennis, game-engine]
 feature: /newAssets/Anuj/featureImage.jpg
 comments: false
@@ -65,7 +64,15 @@ Link To The Cherno's YouTube Channel :- <a class="social-btn" href="https://www.
 - GUI (using <a href="https://github.com/ocornut/imgui" target="_blank">ImGui</a>)
 - Batch Rendering (Just started)
 - Tiling
-- And a lot more!
+- Texture Atlases
+- Drag and drop objects to the scene
+- Scene loader and saver
+- Asset loader and saver
+#### Upcoming Features
+- Sprite Animation
+- Particle effect
+- Multiple Scene Handler
+- And a lot More!
 
 #### Some Screenshots
 <figure class="half">
@@ -87,7 +94,8 @@ Download Link : I still have to organize the project and add Licence, so I will 
 - GUI programming
 - 3D modelling and animation using blender
 - Video editing
-- And More!
+
+
 # Things I want to learn
 - More graphics API's (DirectX, Vulkan)
 - Game engine architecture
